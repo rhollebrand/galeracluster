@@ -43,7 +43,7 @@ Voorbeeld uitvoer:
 ```
 De Hogebrug is open. (Veld 'melding' meldt: Brug weer open voor verkeer)
 Laatste melding: 2024-04-20T11:00:00+02:00
-Bron: https://opendata.rotterdam.nl/api/records/1.0/search/
+Bron: https://rotterdam.dataplatform.nl/api/records/1.0/search/
 ```
 
 ## Testen

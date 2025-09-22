@@ -20,7 +20,7 @@ __all__ = ["BridgeStatus", "BridgeStatusChecker", "BridgeStatusError"]
 
 
 DEFAULT_DATASET = "brugopeningen"
-DEFAULT_URL = "https://opendata.rotterdam.nl/api/records/1.0/search/"
+DEFAULT_URL = "https://rotterdam.dataplatform.nl/api/records/1.0/search/"
 DEFAULT_ROWS = 5
 DEFAULT_TIMEOUT = 10
 
