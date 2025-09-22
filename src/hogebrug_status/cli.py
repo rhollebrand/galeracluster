@@ -32,7 +32,7 @@ def build_parser() -> argparse.ArgumentParser:
     )
     parser.add_argument(
         "--url",
-        default="https://opendata.rotterdam.nl/api/records/1.0/search/",
+        default="https://rotterdam.dataplatform.nl/api/records/1.0/search/",
         help="API-endpoint van het open data portaal.",
     )
     parser.add_argument(
